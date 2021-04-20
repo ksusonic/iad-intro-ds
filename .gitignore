@@ -150,3 +150,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+/2021/homeworks/hw06-text/avito-text-classification/
