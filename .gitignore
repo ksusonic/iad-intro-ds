@@ -151,3 +151,7 @@ dmypy.json
 cython_debug/
 
 /2021/homeworks/hw06-text/avito-text-classification/
+/2021/homeworks/hw06-text/submission.csv
+/2021/homeworks/hw06-text/testtokenized
+/2021/homeworks/hw06-text/traintokenized
+/.idea/datalore.xml
